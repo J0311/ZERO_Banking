@@ -38,3 +38,5 @@
   ### *log4j
   ### *AWS
   ### *PostgreSQL(phase 2)
+  ### *Hard Work
+  ### *Mental Grit
