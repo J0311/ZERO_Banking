@@ -305,6 +305,15 @@ public class BankAccount {
         do {
             System.out.println();
             System.out.println("Enter an option: ");
+            System.out.println();
+            System.out.println("A. Check your balance");
+            System.out.println("B. Make a deposit");
+            System.out.println("C. Make a withdrawal");
+            System.out.println("D. View previous transaction");
+            System.out.println("E. Apply for credit");
+            System.out.println("F. Check credit");
+            System.out.println("G. Review credit application");
+            System.out.println();
             char option1 = info.next().charAt(0);
             option = Character.toUpperCase(option1);
             System.out.println();
