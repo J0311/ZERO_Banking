@@ -39,5 +39,4 @@
   ### *AWS
   ### *PostgreSQL(phase 2)
   ### *Hard Work
-  ### *Consistency
   ### *Mental Grit
