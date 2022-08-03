@@ -52,7 +52,7 @@ public class BankEmployee extends BankUser {
 
             c = DriverManager
                     .getConnection("jdbc:postgresql://javadb-0.cpz1wwb1y5uo.us-east-1.rds.amazonaws.com:5432/postgres",
-                            "J0311", "BestPasswordEver");
+                            "username", "yourPassword");
 
             // Statement which creates new table for bank user within our database with the following properties:
             // new bank user id which will act as our primary key, user's name, and account number.
