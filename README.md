@@ -1,6 +1,6 @@
 # Bank ZERO
 
-## ZERO Bank is a simple banking simulation. The project will occur in 2 phases.
+## ZERO Bank is a simple banking simulation. The project will occur in 2 phases. 
 
 ## Phase 1
 ## Simple Java console application with persistence
