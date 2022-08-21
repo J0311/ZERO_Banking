@@ -260,7 +260,6 @@ public class BankAccount {
             return "Good credit -- automatic approval low to high interest";
         }
         else{
-
             // For any users ABOVE the 680 credit score threshold, it's a pleasure doing business with you!
 
             return "Excellent credit -- automatic approval low interest";
