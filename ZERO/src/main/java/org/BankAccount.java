@@ -26,7 +26,6 @@ public class BankAccount {
     private int customerID;
     private int credit;
 
-
     // Here we create our Class constructor w/args customer name, customer ID, and account ID
 
     public BankAccount(int uid) {
