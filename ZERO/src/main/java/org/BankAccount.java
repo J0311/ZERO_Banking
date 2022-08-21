@@ -265,7 +265,6 @@ public class BankAccount {
 
             return "Excellent credit -- automatic approval low interest";
         }
-
     }
 
     // Function displaying MAIN MENU. Variable "option" allows us to choose from menu options.
