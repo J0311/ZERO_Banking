@@ -82,6 +82,7 @@ public class BankEmployee extends BankUser {
             // In this example below, we will be inputting 3 separate users, though we can expand that number (or
             // decrease it) if need be.
 
+            
             for (int i = 0; i < 3; i++) {
 
                 // Prompts are given, then stored in appropriate variables.
