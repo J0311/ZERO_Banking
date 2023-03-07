@@ -19,6 +19,8 @@ public class Bank {
     private static Logger logger = Logger.getLogger(String.valueOf(Bank.class));
 
     public static void main(String[] args) {
+        
+        // users
 
         BankUser John = new BankUser(200);
         John.accessMenu();
